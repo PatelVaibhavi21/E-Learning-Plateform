@@ -18,9 +18,4 @@ An interactive web-based learning platform that allows students to browse, regis
 - **Database:** MySQL
 - **Server:** XAMPP (Apache + MySQL)
 
-## Getting Started
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/e-learning.git
